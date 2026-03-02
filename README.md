@@ -15,4 +15,4 @@ A web app built with **FastAPI** that grades essays based on a custom rubric usi
 ## How to Run
 ```bash
 pip install -r requirements.txt
-uvicorn app:app --reload
+uvicorn main:app --reload
