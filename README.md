@@ -5,12 +5,12 @@ A web app built with **FastAPI** that grades essays based on a custom rubric usi
 ## Features
 - Input your essay and rubric
 - Automatically get JSON feedback with scores, strengths, weaknesses, and suggestions
-- Interactive front-end with HTML and JavaScript
+- Interactive front-end with HTML, CSS, and JavaScript
 
 ## Tech Stack
 - Python, FastAPI
 - Google Gemini API
-- HTML, JavaScript
+- HTML, CSS, JavaScript
 
 ## How to Run
 ```bash
